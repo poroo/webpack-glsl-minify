@@ -124,7 +124,7 @@ const glslBuiltinFunctions = [
   'mix', 'step', 'smoothstep',
 
   // Texture functions
-  'texture2D', 'texture2DProj', 'textureCube', 'textureSize',
+  'texture2D', 'texture2DProj', 'textureCube', 'textureSize', 'texelFetch',
 
   // Noise functions
   'noise1', 'noise2', 'noise3', 'noise4',
