@@ -84,7 +84,7 @@ const glslTypeQualifiers = [
   'coherent', 'volatile', 'restrict', 'readonly', 'writeonly',
 
   // layout qualifiers
-  'layout(location='
+  'layout', 'location'
 ];
 
 const glslConstantValues = [
